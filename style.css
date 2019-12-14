@@ -1,0 +1,8 @@
+body{
+  background-color: #00cc99;
+}
+
+#unknown-word{
+  transition: 2s;
+  color: white;
+}
